@@ -1,4 +1,4 @@
 mysql: 
   url: http://localhost:3306/db100
- lxy: 
+lxy: 
    message: hello lxy,100
